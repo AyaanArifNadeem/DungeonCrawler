@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/V2.8/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\MyGame.dir\\main.cpp.obj -c D:\\V2.8\\main.cpp",
+  "file": "D:/V2.8/main.cpp",
+  "output": "CMakeFiles/MyGame.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/V2.8/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\MyGame.dir\\Dungeon.cpp.obj -c D:\\V2.8\\Dungeon.cpp",
+  "file": "D:/V2.8/Dungeon.cpp",
+  "output": "CMakeFiles/MyGame.dir/Dungeon.cpp.obj"
+},
+{
+  "directory": "D:/V2.8/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\MyGame.dir\\Entity.cpp.obj -c D:\\V2.8\\Entity.cpp",
+  "file": "D:/V2.8/Entity.cpp",
+  "output": "CMakeFiles/MyGame.dir/Entity.cpp.obj"
+},
+{
+  "directory": "D:/V2.8/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\MyGame.dir\\Platform.cpp.obj -c D:\\V2.8\\Platform.cpp",
+  "file": "D:/V2.8/Platform.cpp",
+  "output": "CMakeFiles/MyGame.dir/Platform.cpp.obj"
+},
+{
+  "directory": "D:/V2.8/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\MyGame.dir\\Player.cpp.obj -c D:\\V2.8\\Player.cpp",
+  "file": "D:/V2.8/Player.cpp",
+  "output": "CMakeFiles/MyGame.dir/Player.cpp.obj"
+},
+{
+  "directory": "D:/V2.8/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\MyGame.dir\\Room.cpp.obj -c D:\\V2.8\\Room.cpp",
+  "file": "D:/V2.8/Room.cpp",
+  "output": "CMakeFiles/MyGame.dir/Room.cpp.obj"
+},
+{
+  "directory": "D:/V2.8/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\MyGame.dir\\Star.cpp.obj -c D:\\V2.8\\Star.cpp",
+  "file": "D:/V2.8/Star.cpp",
+  "output": "CMakeFiles/MyGame.dir/Star.cpp.obj"
+}
+]
